@@ -8,7 +8,7 @@ end
 
 def long_planeteer_calls(calls)
   calls.include? do |caller|
-    if calls[i].length < 3
+    if .length < 3
       false 
     else
       true 
